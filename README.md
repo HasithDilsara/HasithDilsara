@@ -3,11 +3,11 @@
 
 
 
-- 🌱 I’m currently learning **Backend web developing**
+- 🌱 I’m currently learning ****
 
-- 💬 Ask me about **reactJs**
+- 💬 Ask me about ****
 
-- 📫 How to reach me **hasithd123@gmail.com**
+- 📫 How to reach me **hasithdilsara.github.io**
 
   <br>
 
