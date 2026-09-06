@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mechatronics Engineer | Creative designer from Sri lanka</h3>
 
 
-- 📫 How to reach me https://HasithDilsara.github.io/portfolio
+- 📫 How to reach me https://hasithdilsara.github.io/Portfolio/
 
   <br>
 
