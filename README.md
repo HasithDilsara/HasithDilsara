@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasith</h1>
-<h3 align="center">A passionate Designer | developer from Sri lanka</h3>
+<h3 align="center">A passionate Mechatronics Engineer | Creative designer from Sri lanka</h3>
 
-
-
-- 🌱 I’m currently learning ****
-
-- 💬 Ask me about ****
 
 - 📫 How to reach me **hasithdilsara.github.io**
 
